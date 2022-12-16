@@ -1,0 +1,7 @@
+c:\users\marcelo\documents\visual studio 2017\Projects\ACME\ACME\bin\Debug\ACME.exe.config
+c:\users\marcelo\documents\visual studio 2017\Projects\ACME\ACME\bin\Debug\ACME.exe
+c:\users\marcelo\documents\visual studio 2017\Projects\ACME\ACME\bin\Debug\ACME.pdb
+c:\users\marcelo\documents\visual studio 2017\Projects\ACME\ACME\obj\Debug\ACME.csprojResolveAssemblyReference.cache
+c:\users\marcelo\documents\visual studio 2017\Projects\ACME\ACME\obj\Debug\ACME.csproj.CoreCompileInputs.cache
+c:\users\marcelo\documents\visual studio 2017\Projects\ACME\ACME\obj\Debug\ACME.exe
+c:\users\marcelo\documents\visual studio 2017\Projects\ACME\ACME\obj\Debug\ACME.pdb

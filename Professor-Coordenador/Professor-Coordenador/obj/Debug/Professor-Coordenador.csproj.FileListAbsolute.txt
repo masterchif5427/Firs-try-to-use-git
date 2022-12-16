@@ -1,0 +1,7 @@
+c:\users\marcelo\documents\visual studio 2017\Projects\Professor-Coordenador\Professor-Coordenador\bin\Debug\Professor-Coordenador.exe.config
+c:\users\marcelo\documents\visual studio 2017\Projects\Professor-Coordenador\Professor-Coordenador\bin\Debug\Professor-Coordenador.exe
+c:\users\marcelo\documents\visual studio 2017\Projects\Professor-Coordenador\Professor-Coordenador\bin\Debug\Professor-Coordenador.pdb
+c:\users\marcelo\documents\visual studio 2017\Projects\Professor-Coordenador\Professor-Coordenador\obj\Debug\Professor-Coordenador.csprojResolveAssemblyReference.cache
+c:\users\marcelo\documents\visual studio 2017\Projects\Professor-Coordenador\Professor-Coordenador\obj\Debug\Professor-Coordenador.csproj.CoreCompileInputs.cache
+c:\users\marcelo\documents\visual studio 2017\Projects\Professor-Coordenador\Professor-Coordenador\obj\Debug\Professor-Coordenador.exe
+c:\users\marcelo\documents\visual studio 2017\Projects\Professor-Coordenador\Professor-Coordenador\obj\Debug\Professor-Coordenador.pdb
